@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Overpass&color=5B33C4FF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Raseeca+Kashelkar!;+I'm+a+Developer;+I'm+a+Student;+I'm+a+Continuous+Learner;+I'm+a+Tech-Blogger;+I'm+a+Problem-Solver;+I'm+a+Dedicated+Teammate;" />
 </h1>
