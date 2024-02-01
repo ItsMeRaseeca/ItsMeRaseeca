@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **JavaScript**
 
-💬 Ask me about **HTML, CSS, Java, Android... or anything**
+💬 Ask me about **HTML, CSS, Java, Android**
 
 ⚡ Fun fact **On a journey to out-code my yesterday's self. 🌟📈**
 
