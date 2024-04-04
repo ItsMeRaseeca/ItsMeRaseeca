@@ -36,7 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,java" />
-    <img src="https://skillicons.dev/icons?i=r,androidstudio,firebase,mongodb,c,cpp,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=r,androidstudio,firebase,mongodb,c,cpp,mysql,adobe" /><br>
 </div>
 
 <br/>
