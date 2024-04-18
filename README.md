@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **Different Projects**
  
- 🌱 I’m currently learning **JavaScript**
+ 🌱 I’m currently learning **Backend Web Development**
 
 💬 Ask me about **HTML, CSS, Java, Android**
 
