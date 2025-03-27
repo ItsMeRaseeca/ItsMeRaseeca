@@ -10,7 +10,7 @@
  
  🌱 I’m currently learning **Python**
 
-💬 Ask me about **HTML, CSS, Java, Android**
+💬 Ask me about **Front-End Web Development**
 
 ⚡ Fun fact **On a journey to out-code my yesterday's self. 🌟📈**
 
