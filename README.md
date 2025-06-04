@@ -6,13 +6,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Different Projects**
+ 🔭 I’m currently working on **Frontend Projects**
  
- 🌱 I’m currently learning **Python**
+ 🌱 I’m currently learning **Backend Web Development**
 
 💬 Ask me about **Front-End Web Development**
-
-⚡ Fun fact **On a journey to out-code my yesterday's self. 🌟📈**
 
  </div>
  
