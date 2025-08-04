@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/raseeca-kashelkar-47a8a9246) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raseecakashelkar163@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raseeca-kashelkar-47a8a9246/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raseecakashelkar163@gmail.com) 
 
 
 # 💻 Tech Stack:
