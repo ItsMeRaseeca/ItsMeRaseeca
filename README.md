@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Front-end projects<br>🌱 I’m currently learning Backend Web Development<br>💬 Ask me about UI/UX, Front-end designs<br>⚡My favorite keyboard shortcut is Ctrl+Z — it’s basically a time machine.
+🔭 I'm currently working on Back-end projects<br>🌱 I’m currently learning Backend Web Development<br>💬 Ask me about UI/UX, Front-end designs<br>⚡My favorite keyboard shortcut is Ctrl+Z — it’s basically a time machine.
 
 
 ## 🌐 Socials:
