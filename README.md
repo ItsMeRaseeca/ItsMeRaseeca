@@ -4,12 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=153+45%25+30&width=450&lines=Full+Stack+Developer;AI+Enthusiast;Hackathon+Winner;GSSoC+Contributor" alt="Typing SVG" />
 </p>
 
-I'm a **Full Stack Developer** and **IT Engineering Student** at Thadomal Shahani Engineering College, Mumbai. I love building smart, circular, and community-driven applications. I recently won **1st Place** at a National Level Hackathon by building an AI-voice powered system!
-
+I'm a **Full Stack Developer** and **IT Engineering Student** at Thadomal Shahani Engineering College, Mumbai. I love building smart, circular, and community-driven applications. 
 ---
 
 ### 🚀 Quick Glance
-- 🔭 **Currently:** Working on **TSEC CodeStorm** as a Senior Committee Member.
+- 🔭 **Currently:** Improving my skills in AI-ML
 - 🌱 **Learning:** Advanced AI Agents and Orchestration patterns.
 - 🤝 **Open Source:** Proud **GSSoC '25** Contributor.
 - 🏆 **Major Win:** 1st Place - National Level Hackathon (Odoo × SPIT).
