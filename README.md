@@ -1,10 +1,10 @@
 # 💫 About Me:
-🔭 **Currently working on:** Building multi-agent, agentic AI systems that can automate real-world workflows.  
-🤝 **Looking to collaborate on:** AI/ML projects, web apps, and innovative ideas that solve real problems.  
-🫶 **Looking for help with:** Scaling AI systems, improving model performance, and integrating LLMs into user-facing products.  
-🌱 **Currently learning:** Advanced AI/ML, LLM Fine-tuning, and Multi-Agent Orchestration.  
-💬 **Ask me about:** Frontend (UI/UX), Backend Development, and turning ideas into actual products.  
-⚡ **Fun fact:** Debugging gets 10x easier after coffee (scientifically unverified) ☕
+🔭 **Currently working on:**   Building multi-agent, agentic AI systems that can automate real-world workflows.  
+🤝 **Looking to collaborate on:**   AI/ML projects, web apps, and innovative ideas that solve real problems.  
+🫶 **Looking for help with:**   Scaling AI systems, improving model performance, and integrating LLMs into user-facing products.  
+🌱 **Currently learning:**   Advanced AI/ML, LLM Fine-tuning, and Multi-Agent Orchestration.  
+💬 **Ask me about:**   Frontend (UI/UX), Backend Development, and turning ideas into actual products.  
+⚡ **Fun fact:**   Debugging gets 10x easier after coffee (scientifically unverified) ☕
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raseeca-kashelkar-47a8a9246) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raseecakashelkar163@gmail.com) 
@@ -33,11 +33,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMeRaseeca&layout=compact&theme=dark" alt="Top Langs" height="150" />
 </p>
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ItsMeRaseeca&theme=radical&no-bg=false&margin-w=4" alt="Trophies" />
-</p>
----
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ItsMeRaseeca&icon=0&color=0" alt="Visit Count" />
-</p>
+
