@@ -27,19 +27,17 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsMeRaseeca&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ItsMeRaseeca&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMeRaseeca&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsMeRaseeca&show_icons=true&theme=dark" alt="Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsMeRaseeca&theme=dark" alt="Streak" height="150" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMeRaseeca&layout=compact&theme=dark" alt="Top Langs" height="150" />
+</p>
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ItsMeRaseeca&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ItsMeRaseeca&theme=radical&no-bg=false&margin-w=4" alt="Trophies" />
 </p>
-
 ---
 <p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=ItsMeRaseeca&icon=0&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=ItsMeRaseeca&icon=0&color=0" />
-  </a>
+  <img src="https://visitcount.itsvg.in/api?id=ItsMeRaseeca&icon=0&color=0" alt="Visit Count" />
 </p>
