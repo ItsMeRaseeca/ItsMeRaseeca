@@ -3,7 +3,7 @@
 🤝 **Looking to collaborate on:**   Web apps, AI/ML projects, and innovative ideas that solve real problems.  
 🫶 **Looking for help with:**   Scaling AI systems, improving model performance, and integrating LLMs into user-facing products.  
 💬 **Ask me about:**   Frontend (UI/UX), Backend Development, and turning ideas into actual products.  
-⚡ **Fun fact:**   Debugging gets 10x easier after coffee (scientifically unverified) ☕
+⚡ **Fun fact:**   Debugging gets 10x easier after coffee :) ☕
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raseeca-kashelkar-47a8a9246) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raseecakashelkar163@gmail.com) 
