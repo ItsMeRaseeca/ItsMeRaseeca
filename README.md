@@ -1,8 +1,7 @@
 # 💫 About Me:
 🔭 **Currently working on:**   Building multi-agent, agentic AI systems that can automate real-world workflows.  
-🤝 **Looking to collaborate on:**   AI/ML projects, web apps, and innovative ideas that solve real problems.  
+🤝 **Looking to collaborate on:**   Web apps, AI/ML projects, and innovative ideas that solve real problems.  
 🫶 **Looking for help with:**   Scaling AI systems, improving model performance, and integrating LLMs into user-facing products.  
-🌱 **Currently learning:**   Advanced AI/ML, LLM Fine-tuning, and Multi-Agent Orchestration.  
 💬 **Ask me about:**   Frontend (UI/UX), Backend Development, and turning ideas into actual products.  
 ⚡ **Fun fact:**   Debugging gets 10x easier after coffee (scientifically unverified) ☕
 
